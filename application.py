@@ -13,5 +13,9 @@ def testing():
     # working on testing function
     return "testing"
 
+def testing2():
+    # working on testing function
+    return "testing"
+
 if __name__ == '__main__':
     application.run(host='0.0.0.0', port=80)
