@@ -5,7 +5,7 @@ application = Flask(__name__)
 
 @application.route('/')
 def hello_world():  # put application's code here
-    # adding some master code
+    # remove that master code and adding testing code
 
     return render_template('home.html')
 
