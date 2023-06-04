@@ -9,6 +9,9 @@ def hello_world():
 
     return render_template('home.html')
 
+def process():
+    # working on image processing
+    return "Hello World"
 def testing():
     # working on testing function
     return "testing"
